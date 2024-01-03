@@ -8,7 +8,9 @@ To view the complete Webscrapping Project, click [here](https://github.com/Ani-G
 ## Technologies Used:
 
 **Python:** Core programming language for the project.
+
 **BeautifulSoup:** Python library for pulling data out of HTML and XML files.
+
 **Requests:** Simplifies the process of sending HTTP requests.
 
 ## Key Steps:
@@ -31,4 +33,5 @@ The script iterates through the rows of the table, extracting the data from each
 ## Future Enhancements:
 
 **Implement data cleaning and validation steps for robust data extraction.**
+
 **Enhance error handling to account for changes in the HTML structure of the Wikipedia page.**

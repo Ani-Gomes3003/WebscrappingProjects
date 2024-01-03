@@ -3,6 +3,8 @@
 
 This Python project utilizes the BeautifulSoup and Requests libraries for web scraping to gather information on the largest companies in the USA by revenue. The script navigates through relevant web pages, extracts data, and compiles a list of major companies, providing a snapshot of their revenue.
 
+To view the complete Webscrapping Project, click [here](https://github.com/Ani-Gomes3003/WebscrappingProjects/blob/main/Web%20Scrapping%20website%20.ipynb)
+
 ## Features:
 
 **Scraping:** Utilizes BeautifulSoup for parsing HTML and extracting relevant information.
